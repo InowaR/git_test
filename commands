@@ -6,3 +6,4 @@ git commit -m "init commit"
 git log
 git branch <имя ветки>
 git checkout -b <имя ветки>
+git revert <номер коммита> - создается новый revert коммит без изменений плохого коммита
