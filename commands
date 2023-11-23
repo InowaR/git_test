@@ -1,0 +1,8 @@
+git init
+git status
+git diff <имя файла>
+git add -A
+git commit -m "init commit"
+git log
+git branch <имя ветки>
+git checkout -b <имя ветки>
